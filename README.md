@@ -21,6 +21,10 @@ npm install
 npm run dev
 ```
 
+- add configuration of your database in comfig.js in backend folder
+- add ip address in momgodb network configuration
+
+
 ## Step by Stem realization of the project (to implememt it from scratch)
 
 - create a backend and frontend folders

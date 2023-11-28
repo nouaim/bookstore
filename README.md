@@ -24,7 +24,7 @@ npm run dev
 
 - add .gitignore file
 
-- run ```npm init -`y` inside the backend folder to initialize package.json file
+- run ```npm init -y``` inside the backend folder to initialize package.json file
 
 - modify the package.json file
 
@@ -38,7 +38,7 @@ cd frontend
  
 npm i react-router-dom
 
-npm i axios react-icons```
+npm i axios react-icons
 
 npm i notistack
 ```

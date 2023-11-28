@@ -40,10 +40,9 @@ npm i react-router-dom
 
 npm i axios react-icons```
 
-npm i notistack```
-- 
-#
+npm i notistack
 ```
+
 ## Tips
 
 ```rface``` in VS Code to create a component (ES7 + React ...)
